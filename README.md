@@ -1,6 +1,6 @@
 # GameDevTools
 
-Collection of useful tools for game development.
+List of useful tools for game development.
 
 ## Engines
 
@@ -9,33 +9,33 @@ Collection of useful tools for game development.
 [https://unity3d.com/](https://unity3d.com/ "Unity3D")
 
 - Platforms: 
-- Games: 
+- Games made with:
 
 ### Unreal Engine
 
 [https://www.unrealengine.com](https://www.unrealengine.com "Unreal Engine")
 
 - Platforms: 
-- Games:
+- Games made with:
 
 ### GameMaker Studio
 
 [https://www.yoyogames.com/gamemaker](https://www.yoyogames.com/gamemaker "GameMaker")
 
 - Platforms: 
-- Games:
+- Games made with:
 
 ### GoDot Engine
 
 - Platforms: 
-- Games:
+- Games made with:
 
 ### Stencyl
 
 [http://www.stencyl.com/](http://www.stencyl.com/ "Stencyl")
 
 - Platforms: 
-- Games:
+- Games made with:
 
 ### RenPy
 
@@ -44,27 +44,33 @@ Ren'Py is a visual novel engine
 [https://www.renpy.org/](https://www.renpy.org/ "RenPy")
 
 - Platforms: 
-- Games:
+- Games made with:
 
 ## Libraries/Frameworks
 
 ### SDL
 
-- Platforms: 
-- Games:
-- Languages:
+- Platforms: Windows, Mac OS X, Linux, iOS, Android
+- Games made with: FTL: Faster Than Light
+- Languages: C, C++, C#, Ada, D, Go, Lua, OCaml, Pascal, Python, Rust
 
 ### SFML
 
-- Platforms: 
-- Games:
-- Languages:
+- Platforms: Windows, Linux, Mac OS
+- Games made with: Atom Zombie Smasher
+- Languages: C, C++, C#, D, Euphoria, Go, Haskell, Java, Julia, OCaml, Pascal, Python, Ruby, Rust
 
 ### LibGDX
 
-- Platforms: 
-- Games:
-- Languages:
+- Platforms: Windows, Mac OS, Linux, Android, iOS, BlackBerry, HTML5
+- Games made with:
+- Languages: Java
+
+### LWJGL (Lightweight Java Game Library)
+
+- Platforms: Windows, Mac OS, Linux
+- Games made with: Minecraft
+- Languages: Java
 
 ## Graphics tools
 
