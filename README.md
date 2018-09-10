@@ -50,11 +50,15 @@ Ren'Py is a visual novel engine
 
 ### SDL
 
+[https://www.libsdl.org/](https://www.libsdl.org/ "SDL")
+
 - Platforms: Windows, Mac OS X, Linux, iOS, Android
 - Games made with: FTL: Faster Than Light
 - Languages: C, C++, C#, Ada, D, Go, Lua, OCaml, Pascal, Python, Rust
 
 ### SFML
+
+[https://www.sfml-dev.org/](https://www.sfml-dev.org/ "SFML")
 
 - Platforms: Windows, Linux, Mac OS
 - Games made with: Atom Zombie Smasher
@@ -62,11 +66,15 @@ Ren'Py is a visual novel engine
 
 ### LibGDX
 
+[https://libgdx.badlogicgames.com/](https://libgdx.badlogicgames.com/ "LibGDX")
+
 - Platforms: Windows, Mac OS, Linux, Android, iOS, BlackBerry, HTML5
 - Games made with:
 - Languages: Java
 
 ### LWJGL (Lightweight Java Game Library)
+
+[https://www.lwjgl.org/](https://www.lwjgl.org/ "LWJGL")
 
 - Platforms: Windows, Mac OS, Linux
 - Games made with: Minecraft
