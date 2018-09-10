@@ -1,6 +1,6 @@
 # GameDevTools
 
-List of useful tools for game development.
+A curated list of useful tools for game development.
 
 ## Engines
 
@@ -84,6 +84,10 @@ Ren'Py is a visual novel engine
 
 ### 2D
 
+### Krita
+
+[https://krita.org/](https://krita.org/ "Krita")
+
 ### Inkscape
 
 [https://inkscape.org/](https://inkscape.org/ "InkScape")
@@ -92,10 +96,17 @@ Ren'Py is a visual novel engine
 
 [https://www.getpaint.net/](https://www.getpaint.net/ "Paint.net")
 
+### Pencil 2D
+
+[https://www.pencil2d.org/](https://www.pencil2d.org/ "Pencil 2D")
 
 ### Spine 2D
 
 [http://esotericsoftware.com/](http://esotericsoftware.com/ "Spine 2D")
+
+### OpenToonz
+
+[http://opentoonz.github.io/e/](http://opentoonz.github.io/e/ "OpenToonz")
 
 ### 3D
 
