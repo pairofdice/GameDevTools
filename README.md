@@ -122,6 +122,10 @@ Ren'Py is a visual novel engine
 
 [https://www.blender.org/](https://www.blender.org/ "Blender")
 
+### AliceVision
+
+[https://alicevision.github.io/](https://alicevision.github.io/ "AliceVision")
+
 
 ## Audio tools
 
@@ -141,6 +145,10 @@ Ren'Py is a visual novel engine
 ### Trello
 
 [https://trello.com](https://trello.com "Trello")
+
+### Libre Office
+
+[https://www.libreoffice.org/](https://www.libreoffice.org/ "Libre Office")
 
 
 
